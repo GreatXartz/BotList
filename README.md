@@ -1,1 +1,1 @@
-# BotList
+# bot-list-lozbey
